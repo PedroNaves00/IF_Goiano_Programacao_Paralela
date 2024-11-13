@@ -1,1 +1,1 @@
-# IF_Goiano_Programa-o_Paralela
+# IF_Goiano_Programacao_Paralela
